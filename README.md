@@ -7,15 +7,15 @@ Ideas for Workshop:
 
 - Have different skill levels (i.e 1->5) and allow students to progress through them.
 
--Skill Levels
---1
---2
---3
---4
---5
+- Skill Levels
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
 
 
 - Thematic ideas?
--- Orbital Trajectories? (easy to understand physics, room for expansion)
+  - Orbital Trajectories? (easy to understand physics, room for expansion)
 
 
