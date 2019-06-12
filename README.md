@@ -36,7 +36,7 @@ Ideas for Workshop:
  
  Meeting Wednesday 12th.
 - Anaconda 3
-Packages: Astropy, Sunpy
+Packages: Astropy, Sunpy, Spyder
 
 
 Other ideas:
